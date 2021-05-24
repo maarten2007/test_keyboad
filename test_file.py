@@ -1,5 +1,5 @@
 from time import sleep
 
 
-print "hello"
+print ("hello")
 sleep 10
