@@ -2,4 +2,4 @@ from time import sleep
 
 
 print ("hello")
-sleep 10
+sleep(10)
